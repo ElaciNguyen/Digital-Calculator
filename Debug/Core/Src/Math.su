@@ -1,0 +1,4 @@
+Math.c:13:6:DisplayNum	48	static
+Math.c:50:6:BasicCalculator	64	static
+Math.c:157:6:AdvanceCalculator	64	static
+Math.c:244:6:TrigonometricCalculator	56	static
